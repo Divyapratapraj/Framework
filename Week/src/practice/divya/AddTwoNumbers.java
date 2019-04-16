@@ -2,16 +2,14 @@ package practice.divya;
 
 public class AddTwoNumbers {
 	int a=10,b=20,c,d,e,f;
-	//a=10;
-	//b=20;
-
+	
 	//int c;
 	//int d;
 	//int e;
 	//int f;
 	//int a=10;
 	//int b=20;
-//void main
+
 		public void dis()
 		{
 	
