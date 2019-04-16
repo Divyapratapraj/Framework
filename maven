@@ -1,0 +1,21 @@
+  <groupId>com.learnautomation</groupId>
+  <artifactId>com.learnautomation.selenium</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>DemoOnMaven</name>
+  <description>DemoOnMaven</description>
+  
+  
+  <properties>
+<suiteXmlFile>src/main/resources/testngmaven.xml</suiteXmlFile>
+ 
+</properties>
+ 
+  <dependencies>
+<dependency> 
+
+
+  <groupId>org.testng</groupId> 
+
+
+  <artifactId>testng</artifactId> 
+
